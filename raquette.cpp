@@ -12,11 +12,15 @@ raquette::raquette(float larg, float haut, float abcisse, float ordonnee) : rect
 }
 
 raquette::~raquette()
-{
-
-}
+{}
 
 void raquette::deplace(float abcisse)
 {
     rectangl::deplace(abcisse,0);
+}
+
+
+int raquette::getHauteur()
+{
+    return hauteurRaquette;
 }

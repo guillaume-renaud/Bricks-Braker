@@ -68,3 +68,13 @@ void rectangl::majxy()
     y1 = y - h/2;
     y2 = y + h/2;
 }
+
+
+// ca c'est ok
+int rectangl::collisionBalleRect(float px, float py)
+{
+    if((px >= x1) && (px <= x2) && (py >= y1) && (py <= y2))
+        return 1;
+
+    return 0;
+}

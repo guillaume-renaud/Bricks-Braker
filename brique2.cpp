@@ -7,6 +7,7 @@ using namespace std;
 
 brique2::brique2(float abs, float ord, float pl , float ph /*, int couleurExterieure, int couleurInterieure*/) : brique(abs,ord,pl,ph/*, int couleurExterieure, int couleurInterieure*/)
 {
+    compteur = 1;
     couleurbrique = makecol(0,255,0);
 }
 
@@ -18,4 +19,10 @@ brique2::~brique2()
 void brique2::affiche()
 {
     rectfill(page, x1,y1,x2,y2, couleurbrique);
+}
+
+
+void brique2::majBrique()
+{
+    compteur--;
 }

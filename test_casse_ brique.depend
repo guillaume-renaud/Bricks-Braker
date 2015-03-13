@@ -1,0 +1,452 @@
+# depslib dependency file v1.0
+1401119125 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\balle.cpp
+	<allegro.h>
+	<iostream>
+	"cercle.h"
+	"balle.h"
+
+1401093269 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\point.h
+	"form.h"
+
+1401039246 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\form.h
+	<allegro.h>
+	"listeform.h"
+
+1401037808 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\listeform.h
+	"liste.h"
+
+1401037814 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\liste.h
+
+1401111727 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\balle.h
+	"brique.h"
+	"cercle.h"
+	"raquette.h"
+	"listebrique.h"
+
+1401038006 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\bouton.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"bouton.h"
+
+1401038058 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\rectangl.h
+	"point.h"
+
+1401038814 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\bouton.h
+	"rectangl.h"
+
+1401111745 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique.cpp
+	<allegro.h>
+	<iostream>
+	"balle.h"
+	"rectangl.h"
+	"brique.h"
+
+1401111819 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique.h
+	"rectangl.h"
+
+1401038696 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique1.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique1.h"
+
+1401038602 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique1.h
+
+1401038708 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique2.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique2.h"
+
+1401038614 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\brique2.h
+
+1401039460 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\form.cpp
+	<allegro.h>
+	<iostream>
+	"listeform.h"
+	"form.h"
+
+1401090529 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\liste.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"liste.h"
+
+1401118167 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\listebrique.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	"form.h"
+	"liste.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401112019 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\listebrique.h
+
+1401037648 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\listeform.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"form.h"
+	"listeform.h"
+
+1401118930 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\main.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"listeform.h"
+	"form.h"
+	"point.h"
+	"balle.h"
+	"rectangl.h"
+	"raquette.h"
+	"bouton.h"
+	"menu.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401097839 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\raquette.h
+	"rectangl.h"
+
+1401038918 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\menu.h
+	"bouton.h"
+
+1401039010 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\menu.cpp
+	<allegro.h>
+	<iostream>
+	"menu.h"
+
+1401094160 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\point.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"point.h"
+
+1401037868 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\raquette.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"raquette.h"
+
+1401039088 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\rectangl.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"rectangl.h"
+
+1401091302 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\cercle.h
+	"point.h"
+
+1401093423 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebrique\cercle.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"cercle.h"
+
+1401193364 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\balle.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	"cercle.h"
+	"balle.h"
+
+1401091302 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\cercle.h
+	"point.h"
+
+1401093269 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\point.h
+	"form.h"
+
+1401039246 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\form.h
+	<allegro.h>
+	"listeform.h"
+
+1401037808 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\listeform.h
+	"liste.h"
+
+1401037814 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\liste.h
+
+1401190088 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\balle.h
+	"brique.h"
+	"cercle.h"
+	"raquette.h"
+	"listebrique.h"
+
+1401196014 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique.h
+	"rectangl.h"
+
+1401190116 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\rectangl.h
+	"point.h"
+
+1401097839 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\raquette.h
+	"rectangl.h"
+
+1401190108 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\listebrique.h
+
+1401038006 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\bouton.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"bouton.h"
+
+1401038814 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\bouton.h
+	"rectangl.h"
+
+1401191282 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique.cpp
+	<allegro.h>
+	<iostream>
+	"balle.h"
+	"rectangl.h"
+	"brique.h"
+
+1401196010 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique1.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique1.h"
+
+1401194847 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique1.h
+
+1401191423 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique2.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique2.h"
+
+1401191206 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\brique2.h
+
+1401093423 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\cercle.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"cercle.h"
+
+1401193554 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\form.cpp
+	<allegro.h>
+	<iostream>
+	"listeform.h"
+	"form.h"
+
+1401181312 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\liste.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"liste.h"
+
+1401191294 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\listebrique.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	"balle.h"
+	"form.h"
+	"liste.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401189605 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\listeform.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"form.h"
+	"listeform.h"
+
+1401194817 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\main.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"listeform.h"
+	"form.h"
+	"point.h"
+	"balle.h"
+	"rectangl.h"
+	"raquette.h"
+	"bouton.h"
+	"menu.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401038918 c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\menu.h
+	"bouton.h"
+
+1401039010 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\menu.cpp
+	<allegro.h>
+	<iostream>
+	"menu.h"
+
+1401094160 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\point.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"point.h"
+
+1401178995 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\raquette.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"raquette.h"
+
+1401190075 source:c:\documents and settings\benjamin.clabault\mes documents\downloads\c++_cassebrique\c++_cassebriqu2e\rectangl.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"rectangl.h"
+
+1401209036 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\balle.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	"cercle.h"
+	"balle.h"
+
+1401091302 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\cercle.h
+	"point.h"
+
+1401093270 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\point.h
+	"form.h"
+
+1401039246 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\form.h
+	<allegro.h>
+	"listeform.h"
+
+1401037808 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\listeform.h
+	"liste.h"
+
+1401037814 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\liste.h
+
+1401204720 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\balle.h
+	"brique.h"
+	"cercle.h"
+	"raquette.h"
+	"listebrique.h"
+
+1401196016 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique.h
+	"rectangl.h"
+
+1401190118 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\rectangl.h
+	"point.h"
+
+1401204910 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\raquette.h
+	"rectangl.h"
+
+1401190110 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\listebrique.h
+
+1401038006 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\bouton.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"bouton.h"
+
+1401038814 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\bouton.h
+	"rectangl.h"
+
+1401191284 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique.cpp
+	<allegro.h>
+	<iostream>
+	"balle.h"
+	"rectangl.h"
+	"brique.h"
+
+1401209460 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique1.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique1.h"
+
+1401194848 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique1.h
+
+1401191424 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique2.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique2.h"
+
+1401191208 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\brique2.h
+
+1401093424 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\cercle.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"cercle.h"
+
+1401193556 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\form.cpp
+	<allegro.h>
+	<iostream>
+	"listeform.h"
+	"form.h"
+
+1401208856 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\liste.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"liste.h"
+
+1401207334 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\listebrique.cpp
+	<allegro.h>
+	<iostream>
+	<math.h>
+	"balle.h"
+	"form.h"
+	"liste.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401189606 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\listeform.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"form.h"
+	"listeform.h"
+
+1401209268 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\main.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"listeform.h"
+	"form.h"
+	"point.h"
+	"balle.h"
+	"rectangl.h"
+	"raquette.h"
+	"bouton.h"
+	"menu.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401038918 e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\menu.h
+	"bouton.h"
+
+1401039010 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\menu.cpp
+	<allegro.h>
+	<iostream>
+	"menu.h"
+
+1401202896 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\point.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"point.h"
+
+1401207832 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\raquette.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"raquette.h"
+
+1401190076 source:e:\as_2014 iut amiens\semestre2\projet\c++_cassebrique\rectangl.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"rectangl.h"
+

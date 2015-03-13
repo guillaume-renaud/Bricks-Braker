@@ -1,10 +1,11 @@
 #ifndef __RAQUETTE_H__
 #define __RAQUETTE_H__
 
+#include "rectangl.h"
 
 class raquette : public rectangl
 {
-private:
+protected:
     int largeurRaquette;
     int hauteurRaquette;
 
@@ -13,8 +14,8 @@ public:
     ~raquette();
 
     void deplace(float);
+    int getHauteur();
 
-    void collision();
 };
 
 #endif //__RAQUETTE_H__

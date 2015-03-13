@@ -14,8 +14,9 @@ public :
     ~point();
     point& operator=(const point&);
 
+    void deplace(float, float);
+
     void init(float, float);
-    void deplace(float,float);
 };
 
 #endif // __POINT_H__

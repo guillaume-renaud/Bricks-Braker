@@ -22,6 +22,5 @@ void listeform::affiche()
     {
         ptr = (form*) prochain();
         ptr->affiche();
-        cout << endl;
     }
 }

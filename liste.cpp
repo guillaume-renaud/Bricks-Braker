@@ -2,7 +2,9 @@
 #include <iostream>
 using namespace std;
 
+#include "form.h"
 #include "liste.h"
+
 
 void liste::init()
 {
@@ -66,8 +68,7 @@ void liste::supprime(void *val)
 
             }
         }
-
-        //form::cpt--;
+        form::cpt--;
     }
 }
 
@@ -76,5 +77,6 @@ int liste::existe()
 {
     if(cour != NULL)
         return 1;
+
     return 0;
 }

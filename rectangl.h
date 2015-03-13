@@ -17,6 +17,7 @@ public :
     ~rectangl();
     rectangl& operator=(rectangl&);
 
+    int collisionBalleRect(float, float);
     void init(float, float,float, float);
     void deplace(float,float);
     void affiche();

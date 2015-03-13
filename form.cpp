@@ -21,13 +21,14 @@ form::~form()
 {
     l->supprime(this);
     //cout << "Destructeur form\n";
-    cpt --;
+    cpt--;
 }
 
 
 void form::affichelisteform()
 {
     l->affiche();
+
 }
 
 
