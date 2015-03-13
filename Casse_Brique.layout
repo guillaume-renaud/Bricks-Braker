@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="balle.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="395" topLine="19" />
+	</File>
+	<File name="balle.h" open="1" top="0" tabpos="3">
+		<Cursor position="184" topLine="0" />
+	</File>
+	<File name="bouton.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="113" topLine="0" />
+	</File>
+	<File name="bouton.h" open="0" top="0" tabpos="0">
+		<Cursor position="69" topLine="0" />
+	</File>
+	<File name="brique.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="109" topLine="0" />
+	</File>
+	<File name="brique.h" open="1" top="0" tabpos="8">
+		<Cursor position="69" topLine="0" />
+	</File>
+	<File name="brique1.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="452" topLine="0" />
+	</File>
+	<File name="brique1.h" open="1" top="0" tabpos="9">
+		<Cursor position="235" topLine="0" />
+	</File>
+	<File name="brique2.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="454" topLine="0" />
+	</File>
+	<File name="brique2.h" open="1" top="0" tabpos="10">
+		<Cursor position="233" topLine="0" />
+	</File>
+	<File name="form.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="343" topLine="0" />
+	</File>
+	<File name="form.h" open="0" top="0" tabpos="0">
+		<Cursor position="167" topLine="0" />
+	</File>
+	<File name="liste.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="65" topLine="0" />
+	</File>
+	<File name="liste.h" open="0" top="0" tabpos="0">
+		<Cursor position="354" topLine="0" />
+	</File>
+	<File name="listeBrique.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="173" topLine="5" />
+	</File>
+	<File name="listeBrique.h" open="0" top="0" tabpos="0">
+		<Cursor position="238" topLine="0" />
+	</File>
+	<File name="listeform.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="362" topLine="0" />
+	</File>
+	<File name="listeform.h" open="0" top="0" tabpos="0">
+		<Cursor position="211" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="2457" topLine="76" />
+	</File>
+	<File name="menu.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="67" topLine="0" />
+	</File>
+	<File name="menu.h" open="0" top="0" tabpos="0">
+		<Cursor position="42" topLine="0" />
+	</File>
+	<File name="point.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="65" topLine="0" />
+	</File>
+	<File name="point.h" open="0" top="0" tabpos="0">
+		<Cursor position="63" topLine="0" />
+	</File>
+	<File name="raquette.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="41" topLine="0" />
+	</File>
+	<File name="rectangl.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1062" topLine="44" />
+	</File>
+	<File name="rectangl.h" open="0" top="0" tabpos="0">
+		<Cursor position="70" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

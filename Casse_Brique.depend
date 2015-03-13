@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1401041195 source:c:\users\guillaume\desktop\casse_brique\liste.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+
+1401041413 c:\users\guillaume\desktop\casse_brique\liste.h
+
+1401041246 source:c:\users\guillaume\desktop\casse_brique\listeform.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"form.h"
+	"listeform.h"
+
+1401042845 c:\users\guillaume\desktop\casse_brique\form.h
+	<allegro.h>
+	"listeform.h"
+
+1401041407 c:\users\guillaume\desktop\casse_brique\listeform.h
+	"liste.h"
+
+1401043059 source:c:\users\guillaume\desktop\casse_brique\form.cpp
+	<allegro.h>
+	<iostream>
+	"listeform.h"
+	"form.h"
+
+1401043078 source:c:\users\guillaume\desktop\casse_brique\balle.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"balle.h"
+
+1401041645 c:\users\guillaume\desktop\casse_brique\point.h
+	"form.h"
+
+1401043099 c:\users\guillaume\desktop\casse_brique\balle.h
+
+1401041604 source:c:\users\guillaume\desktop\casse_brique\bouton.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"bouton.h"
+
+1401041657 c:\users\guillaume\desktop\casse_brique\rectangl.h
+	"point.h"
+
+1401042413 c:\users\guillaume\desktop\casse_brique\bouton.h
+	"rectangl.h"
+
+1401042271 source:c:\users\guillaume\desktop\casse_brique\brique.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"brique.h"
+
+1401042332 c:\users\guillaume\desktop\casse_brique\brique.h
+	"rectangl.h"
+
+1401042294 source:c:\users\guillaume\desktop\casse_brique\brique1.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique1.h"
+
+1401042201 c:\users\guillaume\desktop\casse_brique\brique1.h
+
+1401042306 source:c:\users\guillaume\desktop\casse_brique\brique2.cpp
+	<allegro.h>
+	<iostream>
+	"brique.h"
+	"brique2.h"
+
+1401042213 c:\users\guillaume\desktop\casse_brique\brique2.h
+
+1401042380 source:c:\users\guillaume\desktop\casse_brique\listebrique.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"liste.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401041936 c:\users\guillaume\desktop\casse_brique\listebrique.h
+
+1401042943 source:c:\users\guillaume\desktop\casse_brique\main.cpp
+	<allegro.h>
+	<iostream>
+	"liste.h"
+	"listeform.h"
+	"form.h"
+	"point.h"
+	"balle.h"
+	"rectangl.h"
+	"raquette.h"
+	"bouton.h"
+	"menu.h"
+	"listeBrique.h"
+	"brique.h"
+	"brique1.h"
+	"brique2.h"
+
+1401041372 c:\users\guillaume\desktop\casse_brique\raquette.h
+
+1401042516 c:\users\guillaume\desktop\casse_brique\menu.h
+	"bouton.h"
+
+1401042608 source:c:\users\guillaume\desktop\casse_brique\menu.cpp
+	<allegro.h>
+	<iostream>
+	"menu.h"
+
+1401041205 source:c:\users\guillaume\desktop\casse_brique\point.cpp
+	<allegro.h>
+	<iostream>
+	"form.h"
+	"point.h"
+
+1401041467 source:c:\users\guillaume\desktop\casse_brique\raquette.cpp
+	<allegro.h>
+	<iostream>
+	"rectangl.h"
+	"raquette.h"
+
+1401042686 source:c:\users\guillaume\desktop\casse_brique\rectangl.cpp
+	<allegro.h>
+	<iostream>
+	"point.h"
+	"rectangl.h"
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Casse_Brique" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Casse_Brique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Casse_Brique" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="balle.cpp" />
+		<Unit filename="balle.h" />
+		<Unit filename="bouton.cpp" />
+		<Unit filename="bouton.h" />
+		<Unit filename="brique.cpp" />
+		<Unit filename="brique.h" />
+		<Unit filename="brique1.cpp" />
+		<Unit filename="brique1.h" />
+		<Unit filename="brique2.cpp" />
+		<Unit filename="brique2.h" />
+		<Unit filename="form.cpp" />
+		<Unit filename="form.h" />
+		<Unit filename="liste.cpp" />
+		<Unit filename="liste.h" />
+		<Unit filename="listeBrique.cpp" />
+		<Unit filename="listeBrique.h" />
+		<Unit filename="listeform.cpp" />
+		<Unit filename="listeform.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="point.cpp" />
+		<Unit filename="point.h" />
+		<Unit filename="raquette.cpp" />
+		<Unit filename="raquette.h" />
+		<Unit filename="rectangl.cpp" />
+		<Unit filename="rectangl.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
